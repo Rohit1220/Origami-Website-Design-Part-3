@@ -1,0 +1,21 @@
+.starter{
+    all: inherit;
+    background-color: khaki;
+    background-attachment: fixed;
+    background-origin: border-box;
+    background-size: 12px;
+    border-top-width: inherit;
+    border-top-style: initial;
+    border-top-color: lawngreen ;
+    border-right-width: initial;
+    border-right-color: lemonchiffon;
+    border-right-style: inherit;
+    border-left-color: lightblue;
+    border-left-width: inherit;
+    border-left-style: initial;
+    border-bottom-color: lightcoral;
+    border-bottom-width: initial;
+    border-bottom-style: inherit;
+}
+/*.end{
+}*/
