@@ -16,6 +16,22 @@
     border-bottom-color: lightcoral;
     border-bottom-width: initial;
     border-bottom-style: inherit;
+    bottom: initial;
+    box-shadow: inset;
+    caption-side: bottom;
+    clear: both;
+    clip: auto;
+    color: lightcyan;
+    content: attr("Origami Designs");
+    counter-increment: inherit;
+    counter-reset: initial;
+    cursor: alias;
+    direction: ltr;
+    display: block;
+    empty-cells: hide;
+    float: inline-end;
+    
 }
-/*.end{
+/*.end { 
+    margin: 30px;
 }*/
